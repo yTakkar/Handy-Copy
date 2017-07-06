@@ -1,5 +1,5 @@
 # Handy-Notification
-A handy, simple & useful API to copy anything to clipboard when clicked in a fun way!!. Screenshots below.
+A handy, simple & useful API to copy anything to clipboard when clicked in a fun way!!
 
 # Quick links
 1. [Requirements](#requirements)
@@ -33,7 +33,7 @@ Copy({
 })
 ```
 
-You can make it copy from an attribute.
+You can also make it copy from an attribute.
 ```html
 <a href='#' class='copy_me' data-copy='Copy this text!!' >I am a cool link</a>
 ```
