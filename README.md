@@ -52,10 +52,10 @@ options = {
 ```
 
 <dl>
-  <dt>**selector:**</dt>
+  <dt>selector:</dt>
   <dd>Element which will be clicked to copy.</dd>
 
-  <dt>**value:**</dt>
+  <dt>value:</dt>
   <dd>What you want it to copy.</dd>
 </dl>
 
