@@ -6,11 +6,11 @@ A handy, simple & useful API to copy anything to clipboard when clicked in a fun
 2. [Requirements](#requirements)
 3. [Usage with npm or Yarn](#usage-with-npm-or-yarn)
 4. [Usage as a jQuery plugin](#usage-as-a-jquery-plugin)
-5. [API](#api)
+5. [API options](#api)
 
 # Screenshots
-![alt text]()
-![alt text]()
+![alt text](https://raw.githubusercontent.com/yTakkar/Handy-Copy/master/screenshots/Snap%202017-07-07%20at%2003.10.41.png)
+![alt text](https://raw.githubusercontent.com/yTakkar/Handy-Copy/master/screenshots/Snap%202017-07-07%20at%2003.10.29.png)
 
 These screenshots are from [Instagram-clone](https://github.com/yTakkar/Instagram-clone) I created & you can use the code with 5 simple & straight-forward steps!!
 
