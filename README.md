@@ -20,12 +20,10 @@ These screenshots are from [Instagram-clone](https://github.com/yTakkar/Instagra
 # Usage with npm or Yarn
 
 1. First install the package with `npm` or `Yarn`.
-
 ```
 npm install handy-copy
 ```
 or
-
 ```
 yarn add handy-copy
 ```
@@ -38,7 +36,6 @@ Copy({
     value: "I will be copied!",   // What you want to copy
 })
 ```
-
 You can also make it copy from an attribute.
 ```html
 <a href='#' class='copy_me' data-copy='I will be copied!' >I am a cool link</a>
@@ -61,7 +58,6 @@ Copy({ selector: $('.copy_me') })
 ```javascript
 $('.copy_me').HandyCopy({ value: "I will be copied!!" })
 ```
-
 You can also make it copy from an attribute.
 ```html
 <a href='#' class='copy_me' data-copy='I will be copied!' >I am a cool link</a>
