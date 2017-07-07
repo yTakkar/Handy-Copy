@@ -1,5 +1,7 @@
-# Handy-Notification
+# Handy-Copy
 A handy, simple & useful API to copy anything to clipboard when clicked in a fun way. Screenshots below!!
+
+If you're reading this on npmjs website, please visit [GitHub page](#https://github.com/yTakkar/Handy-Copy) for better documentation!!
 
 # Quick links
 1. [Screenshots](#screenshots)
