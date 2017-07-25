@@ -1,13 +1,12 @@
 # Handy-Copy
 A handy, simple & useful API to copy anything to clipboard when clicked in a fun way. Screenshots below!!
 
-If you're reading this on npmjs website, please visit [GitHub page](#https://github.com/yTakkar/Handy-Copy) for better documentation!!
+If you're reading this on npmjs website, please visit [GitHub page](https://github.com/yTakkar/Handy-Copy) for better documentation!!
 
 # Quick links
 1. [Screenshots](#screenshots)
 2. [Requirements](#requirements)
-3. [Usage with npm or Yarn](#usage-with-npm-or-yarn)
-4. [Usage as a jQuery plugin](#usage-as-a-jquery-plugin)
+3. [Usage](#usage)
 5. [API options](#api)
 
 # Screenshots
@@ -45,27 +44,6 @@ You can also make it copy from an attribute.
 ```javascript
 import Copy from 'handy-copy'
 Copy({ selector: $('.copy_me') })
-```
-
-# Usage as a jQuery plugin
-
-1. Copy `handy-copy-plugin.js` file into your project & include it.
-
-```html
-<script src='/handy-copy-plugin.js' ></script>
-```
-
-2.   Now comes the fun part.
-
-```javascript
-$('.copy_me').HandyCopy({ value: "I will be copied!!" })
-```
-You can also make it copy from an attribute.
-```html
-<a href='#' class='copy_me' data-copy='I will be copied!' >I am a cool link</a>
-```
-```javascript
-$('.copy_me').HandyCopy()
 ```
 
 # API
