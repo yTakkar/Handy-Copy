@@ -1,6 +1,6 @@
 {
   "name": "handy-copy",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A handy, simple & useful function to copy anything to clipboard in fun way!!",
   "main": "index.js",
   "scripts": {
