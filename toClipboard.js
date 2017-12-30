@@ -18,15 +18,7 @@ function copyTextToClipboard(text){
   textArea.value = text;
   document.body.appendChild(textArea);
   textArea.select();
-
-  try {
-    var successful = document.execCommand('copy');
-    var msg = successful ? 'Link copied!' : 'Unable to copy';
-    console.log(msg);
-  } catch (err) {
-    console.log('Unable to copy');
-  }
-
+  document.execCommand('copy');
   document.body.removeChild(textArea);
 
 }
