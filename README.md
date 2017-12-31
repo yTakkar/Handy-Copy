@@ -1,5 +1,5 @@
 # Handy-Copy
-A handy way to copy anything to clipboard when clicked in a fun way. Screenshots below!!
+A handy way to copy anything to clipboard. Screenshots below!!
 
 # Quick links
 1. [Screenshots](#screenshots)
