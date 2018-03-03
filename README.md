@@ -10,7 +10,7 @@ A handy way to copy anything to clipboard. Screenshots below!!
 ![alt text](https://raw.githubusercontent.com/yTakkar/Handy-Copy/master/screenshots/Snap%202017-07-07%20at%2003.10.41.png)
 ![alt text](https://raw.githubusercontent.com/yTakkar/Handy-Copy/master/screenshots/Snap%202017-07-07%20at%2003.10.29.png)
 
-These screenshots are from [Instagram-clone](https://github.com/yTakkar/Instagram-clone) I created & you can use the code with 5 simple & straight-forward steps!!
+These screenshots are from [React-Instagram-clone-2.0](https://github.com/yTakkar/React-Instagram-clone-2.0)!!
 
 # Usage with npm or Yarn
 
