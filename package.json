@@ -1,11 +1,9 @@
 {
   "name": "handy-copy",
   "version": "1.0.10",
-  "description": "A handy, simple & useful function to copy anything to clipboard in fun way!!",
+  "description": "A handy way to copy anything to clipboard!!",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yTakkar/Handy-Copy.git"
@@ -17,11 +15,10 @@
     "clipboard",
     "takkar"
   ],
-  "author": "takkar <takkar@gmail.com>",
+  "author": "takkar <www.shtakkar@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yTakkar/Handy-Copy/issues"
   },
-  "homepage": "https://github.com/yTakkar/Handy-Copy#readme",
-  "dependencies": {}
+  "homepage": "https://github.com/yTakkar/Handy-Copy#readme"
 }

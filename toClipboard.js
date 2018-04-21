@@ -1,4 +1,7 @@
-// FUNCTION TO COPY SPECIFIED TEXT TO CLIPBOARD
+/**
+ * Function to copy the given text to the clipboard 
+ * @param {String} text 
+ */
 function copyTextToClipboard(text){
   var
     textArea = document.createElement('textarea'),
