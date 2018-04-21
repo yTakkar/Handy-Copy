@@ -1,6 +1,6 @@
-var ToClipboard = require('./toClipboard')
+var ToClipboard = require('./toClipboard');
 
-function HandyCopy(options){
+function HandyCopy(options) {
     var defaults = {
         value: null,
         done: function(){ return; }
@@ -15,4 +15,4 @@ function HandyCopy(options){
 
 }
 
-module.exports = HandyCopy
+module.exports = HandyCopy;

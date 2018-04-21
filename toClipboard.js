@@ -1,7 +1,7 @@
 // FUNCTION TO COPY SPECIFIED TEXT TO CLIPBOARD
 function copyTextToClipboard(text){
   var
-    textArea = document.createElement("textarea"),
+    textArea = document.createElement('textarea'),
     st = textArea.style;
 
   st.position = 'fixed';
@@ -23,4 +23,4 @@ function copyTextToClipboard(text){
 
 }
 
-module.exports = copyTextToClipboard
+module.exports = copyTextToClipboard;
